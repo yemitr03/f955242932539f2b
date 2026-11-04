@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-group",LANGUAGE="hin",NAME="Hindi",DEFAULT=YES,AUTOSELECT=YES,URI="https://raw.githubusercontent.com/yemitr03/f955242932539f2b/refs/heads/master/audio_0/github_playlist.m3u8?_cb=1793788650"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-group",LANGUAGE="jpn",NAME="Japanese",DEFAULT=NO,AUTOSELECT=NO,URI="https://raw.githubusercontent.com/yemitr03/f955242932539f2b/refs/heads/master/audio_1/github_playlist.m3u8?_cb=1793788650"
+#EXT-X-STREAM-INF:BANDWIDTH=400000,RESOLUTION=640x360,AUDIO="audio-group"
+https://raw.githubusercontent.com/yemitr03/f955242932539f2b/refs/heads/master/360p/github_playlist_360p.m3u8?_cb=1793788650
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720,AUDIO="audio-group"
+https://raw.githubusercontent.com/yemitr03/f955242932539f2b/refs/heads/master/720p/github_playlist_720p.m3u8?_cb=1793788650
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080,AUDIO="audio-group"
+https://raw.githubusercontent.com/yemitr03/f955242932539f2b/refs/heads/master/1080p/github_playlist_1080p.m3u8?_cb=1793788650

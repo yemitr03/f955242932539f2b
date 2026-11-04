@@ -1,0 +1,5 @@
+Video URL:
+https://yemitr03.github.io/player/?list=https://raw.githubusercontent.com/yemitr03/f955242932539f2b/refs/heads/master/github_master.m3u8
+
+Embed Code:
+<iframe src="https://yemitr03.github.io/player/?list=https://raw.githubusercontent.com/yemitr03/f955242932539f2b/refs/heads/master/github_master.m3u8" width="800" height="450" frameborder="0" allowfullscreen></iframe>
